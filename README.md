@@ -1,6 +1,6 @@
 # Laravel Paypal Integration
-
-File Viewer is a Laravel application for viewing files and go through it's content.
+Simple paypal integration with laravel framework
+![LaravelStripe](https://abdelrahmanetry.info/assets/github/paypal.png)
 
 ## Requirements
 - Create a business account on paypal from this link https://developer.paypal.com
