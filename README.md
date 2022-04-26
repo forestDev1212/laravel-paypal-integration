@@ -186,4 +186,4 @@ You can clone this repository for a simple paypal integration sample or you can 
     php artisan serve 
     ```
 
-<p dir="auto" style="background-color: black;width: 100%;text-align: center;"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8f1b48352d820638c852c739eb5ef21f359d466656ecfa43cd65914cc22c0622/68747470733a2f2f616264656c7261686d616e657472792e696e666f2f6173736574732f6769746875622f504c6f676f2e706e67"><img src="https://camo.githubusercontent.com/8f1b48352d820638c852c739eb5ef21f359d466656ecfa43cd65914cc22c0622/68747470733a2f2f616264656c7261686d616e657472792e696e666f2f6173736574732f6769746875622f504c6f676f2e706e67" alt="Abdelrahman Etry" data-canonical-src="https://abdelrahmanetry.info/assets/github/PLogo.png" style="max-width: 100%;background-color: black;"></a></p>
+![Abdelrahman Etry](https://abdelrahmanetry.info/assets/github/logo.png)
