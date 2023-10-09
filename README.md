@@ -1,6 +1,6 @@
 # Laravel Paypal Integration
 Simple paypal integration with laravel framework
-![LaravelPaypal](https://abdelrahmanetry.info/assets/github/paypal_laravel.png)
+![LaravelPaypal](https://abdelrahmanetry.info/public/media/09102023175021-1635252842987.png)
 
 ## Requirements
 - Create a business account on paypal from this link https://developer.paypal.com
